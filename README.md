@@ -8,7 +8,6 @@ Software Engineer with experience developing web applications and mobile. Solid 
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [italo.og@outlook.com](mailto:italo.og@outlook.com)
-* 🧠  I'm learning Spring boot with java 17
 * 🤝  I'm open to collaborating on UI libraries
 
 ### Skills
