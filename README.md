@@ -1,23 +1,102 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Italo Gomes
-===================================================================================================================================
+# Hey there! 👋 I'm Ítalo Gomes
 
-Software ngineer focused on front end
--------------------------------------
+<div align="center">
 
-Software Engineer with experience developing web applications and mobile. Solid knowledge of React, Next.js, TypeScript, JavaScript, HTML, CSS and methodologies agile. Committed to delivering high-quality, scalable, user-centric solutions. Proven skills in teamwork, effective communication and continuous learning.
+**Software Engineer** | **Front-end Specialist** | **Tech Enthusiast**
 
-* 🌍  I'm based in Brasil
-* ✉️  You can contact me at [italo.og@outlook.com](mailto:italo.og@outlook.com)
-* 🤝  I'm open to collaborating on UI libraries
+[🌐 Portfolio](#) • [📧 Contact](#) • [💼 LinkedIn](https://linkedin.com) • [🐙 GitHub](https://github.com/italoog)
 
-### Skills
+</div>
 
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+## 🚀 About Me
 
+I'm a passionate **Software Engineer** with a strong focus on **front-end development**. Based in **Brasil** 🇧🇷, I specialize in building **high-quality, scalable, and user-centric web applications** that make a real impact.
 
-### Socials
+💡 **What I Love:**
+- Crafting beautiful and intuitive user interfaces
+- - Writing clean, maintainable code
+  - - Collaborating with amazing teams
+    - - Solving complex problems with elegant solutions
+      - - Contributing to open-source projects
+        - - Continuous learning and growth
+         
+          - ---
 
-<p align="left"> <a href="https://www.github.com/italoog" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/italoog" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+          ## 🛠️ Tech Stack
 
+          **Languages & Frameworks:**
+          - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+          - - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+            - - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+              - - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+                - - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+                  - - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+                   
+                    - **Tools & Technologies:**
+                    - - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+                      - - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+                        - - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+                          - - ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+                            - - ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+                             
+                              - ---
+
+                              ## 📂 Featured Projects
+
+                              ### 🎮 Pokemon Challenge
+                              *An interactive Pokemon application*
+                              - Explore and learn about different Pokemon
+                              - - Built with modern web technologies
+                                - - [👉 Check it out](https://github.com/italoog/pokemon)
+                                 
+                                  - ### 🚀 Go-Move
+                                  - *A dynamic project showcasing movement and transitions*
+                                  - - Smooth animations and interactions
+                                    - - Performance-optimized code
+                                      - - [👉 Check it out](https://github.com/italoog/go-move)
+                                       
+                                        - ---
+
+                                        ## 💪 Skills & Expertise
+
+                                        ✅ **Frontend Development** - React, Next.js, TypeScript, CSS/SCSS
+                                        ✅ **Responsive Design** - Mobile-first approach, modern layouts
+                                        ✅ **Web Performance** - Optimization, best practices
+                                        ✅ **Clean Code** - SOLID principles, design patterns
+                                        ✅ **Team Collaboration** - Agile, communication, code reviews
+                                        ✅ **Problem Solving** - Analytical thinking, debugging
+
+                                        ---
+
+                                        ## 📈 Stats & Metrics
+
+                                        <div align="center">
+
+                                        ![GitHub followers](https://img.shields.io/github/followers/italoog?style=social)
+                                        ![GitHub User's stars](https://img.shields.io/github/stars/italoog?style=social)
+
+                                        </div>
+
+                                        ---
+
+                                        ## 🤝 Let's Connect!
+
+                                        I'm always interested in:
+                                        - 💼 Collaborating on exciting projects
+                                        - - 🎓 Learning new technologies
+                                          - - 🤲 Contributing to open-source
+                                            - - 💬 Discussing tech, design, and innovation
+                                             
+                                              - **📧 Get in touch:** [italo.og@outlook.com](mailto:italo.og@outlook.com)
+                                             
+                                              - ---
+
+                                              <div align="center">
+
+                                              **Made with ❤️ by Ítalo Gomes**
+
+                                              ⭐ If you find my work interesting, please give it a star!
+
+                                              </div>
